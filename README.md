@@ -17,7 +17,7 @@ This output demonstrates how the system performs on live video input, making it 
 
 
 
-![Real_Time_Output](./Output/Real_time_Output.jpg)
+![Real_Time_Output](./Output/Real_Time_Output.jpg)
 
 
 
